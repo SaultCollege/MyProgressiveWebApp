@@ -3,6 +3,10 @@
 # Original README below...
 # Your first Progressive Web App Code Lab
 
+
+# see the hosted app here 
+# https://myweatherapppwa.firebaseapp.com/index.html
+# 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 code lab from Google.
 
